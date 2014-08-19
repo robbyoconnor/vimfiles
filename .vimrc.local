@@ -1,0 +1,8 @@
+set t_Co=256
+set nofoldenable
+color jellybeans
+let g:syntastic_aggregate_errors = 1
+nnoremap <silent> <C-d> :lclose<CR>:bdelete<CR>
+cabbrev <silent> bd lclose\|bdelete
+noremap <leader>vs :vsplit<cr>
+noremap <leader>hs :split<cr>

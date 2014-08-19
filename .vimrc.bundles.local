@@ -1,0 +1,8 @@
+Bundle "vim-ruby/vim-ruby" 
+Bundle "ecomba/vim-ruby-refactoring"
+Bundle "slim-template/vim-slim"
+Bundle "tpope/vim-rake" 
+Bundle "tpope/vim-endwise" 
+Bundle "tpope/vim-bundler" 
+Bundle "tpope/vim-dispatch" 
+
