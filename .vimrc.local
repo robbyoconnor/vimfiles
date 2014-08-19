@@ -6,3 +6,7 @@ nnoremap <silent> <C-d> :lclose<CR>:bdelete<CR>
 cabbrev <silent> bd lclose\|bdelete
 noremap <leader>vs :vsplit<cr>
 noremap <leader>hs :split<cr>
+noremap <leader>vn :vnew<cr>
+noremap <leader>hn :new<cr>
+
+
