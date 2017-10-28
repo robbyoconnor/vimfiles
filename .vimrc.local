@@ -1,6 +1,6 @@
 set t_Co=256
 set nofoldenable
-color jellybeans
+color molokai_dark
 let g:syntastic_aggregate_errors = 1
 nnoremap <silent> <C-d> :lclose<CR>:bdelete<CR>
 cabbrev <silent> bd lclose\|bdelete
