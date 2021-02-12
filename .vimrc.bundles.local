@@ -1,8 +1,9 @@
-Bundle "vim-ruby/vim-ruby" 
+Bundle "vim-ruby/vim-ruby"
 Bundle "ecomba/vim-ruby-refactoring"
 Bundle "slim-template/vim-slim"
-Bundle "tpope/vim-rake" 
-Bundle "tpope/vim-endwise" 
-Bundle "tpope/vim-bundler" 
-Bundle "tpope/vim-dispatch" 
-
+Bundle "tpope/vim-rake"
+Bundle "tpope/vim-endwise"
+Bundle "tpope/vim-bundler"
+Bundle "tpope/vim-dispatch"
+Plugin 'mzlogin/vim-smali'
+let g:spf13_bundle_groups=['general', 'writing', 'neocomplete', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc','go','ruby','rust','scala','snipmate']
